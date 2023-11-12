@@ -1,0 +1,64 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: Verdana;
+}
+.navbar{
+  background-color: black;
+  padding: 15px 100px;
+  margin-bottom: 35px;
+}
+.navbar a{
+  color: #aacc;
+  text-decoration: none;
+  margin: 0 7px;
+}
+.navbar a h4{
+  display: inline;
+}
+h3{
+  text-align-last: center;
+  font-weight: 300;
+}
+form table{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  
+}
+td{
+ padding-bottom: 12px;
+ padding-right: 15px;
+ vertical-align: top;
+}
+label{
+  display: block;
+  text-align: end;
+  font-size: 13px;
+}
+
+.btn{
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 0;
+}
+.btn-red{
+  background-color: #ee7770;
+}
+.btn-blue{
+  background-color: #33aabb;
+}
+input, select{
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+input,select,textarea{
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+h4{
+  font-weight: 500;
+}
